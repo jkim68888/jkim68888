@@ -1,6 +1,6 @@
 - 👋 Hi, I’m jihyun~
 - 👀 I’m interested in >> books, music, new and challenging things
-- 🌱 I’m currently learning >> javascript, react, scss to be a "front-end developer"
+- 🌱 I’m currently learning >> html, css, jquery, javascript, react, scss to be a "front-end developer"
 - 📫 How to reach me >> jkim68888@gmail.com
 
 <!---
