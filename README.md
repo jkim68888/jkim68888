@@ -12,24 +12,23 @@ You can click the Preview link to take a look at your changes. - 💞️ I’m l
 
 # Hi there👋, I am Jihyun Kim
 
-## 🔨 Tech **Stack**
+## 🔨 Tech Stack
 
-<img src="https://img.shields.io/badge/HTML5-e34f26?style=plastic&logo=Html5&logoColor=white" style="display:inline-block"/>
-<img src="https://img.shields.io/badge/CSS3-1572b6?style=plastic&logo=Css3&logoColor=white" style="display:inline-block"/>
-<img src="https://img.shields.io/badge/SASS-cc6699?style=plastic&logo=Sass&logoColor=white" style="display:inline-block"/>
-<img src="https://img.shields.io/badge/JavaScript-f2df1e?style=plastic&logo=Javascript&logoColor=white" style="display:inline-block"/>
-<img src="https://img.shields.io/badge/React-61dafb?style=plastic&logo=React&logoColor=white" style="display:inline-block"/>
-<img src="https://img.shields.io/badge/Next.js-000?style=plastic&logo=next.js&logoColor=white" style="display:inline-block"/>
-<img src="https://img.shields.io/badge/Firebase-ffca2b?style=plastic&logo=firebase&logoColor=white" style="display:inline-block"/>
-<img src="https://img.shields.io/badge/jQuery-0769ad?style=plastic&logo=jquery&logoColor=white" style="display:inline-block"/>
+<a><img src="https://img.shields.io/badge/HTML5-e34f26?style=plastic&logo=Html5&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/CSS3-1572b6?style=plastic&logo=Css3&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/SASS-cc6699?style=plastic&logo=Sass&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/JavaScript-f2df1e?style=plastic&logo=Javascript&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/React-61dafb?style=plastic&logo=React&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Next.js-000?style=plastic&logo=next.js&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/Firebase-ffca2b?style=plastic&logo=firebase&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/jQuery-0769ad?style=plastic&logo=jquery&logoColor=white" /></a>
 
 <br/>
 
 ## 👩 Me
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjkim68888&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkim68888&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<a><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjkim68888&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <a href="mailto:jkim68888@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=plastic&logo=gmail&logoColor=white"/></a>
 <a href="https://jkim68888.github.io/"><img src="https://img.shields.io/badge/Blog-666666?style=plastic&logo=blogger&logoColor=white"/></a>
