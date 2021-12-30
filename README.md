@@ -18,9 +18,12 @@ You can click the Preview link to take a look at your changes. - 💞️ I’m l
 <a><img src="https://img.shields.io/badge/CSS3-1572b6?style=plastic&logo=Css3&logoColor=white"/></a>
 <a><img src="https://img.shields.io/badge/SASS-cc6699?style=plastic&logo=Sass&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/JavaScript-f2df1e?style=plastic&logo=Javascript&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/React-61dafb?style=plastic&logo=React&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/ReactNative-61dafb?style=plastic&logo=React&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Next.js-000?style=plastic&logo=next.js&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/Firebase-ffca2b?style=plastic&logo=firebase&logoColor=white" /></a>
+<a><img src="https://img.shields.io/badge/MobX-FF9955?style=plastic&logo=mobx&logoColor=white" /></a>
 <a><img src="https://img.shields.io/badge/jQuery-0769ad?style=plastic&logo=jquery&logoColor=white" /></a>
 
 <br/>
