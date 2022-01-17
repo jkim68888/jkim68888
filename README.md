@@ -14,25 +14,36 @@ You can click the Preview link to take a look at your changes. - 💞️ I’m l
 
 ## 🔨 Tech Stack
 
-<a><img src="https://img.shields.io/badge/HTML5-e34f26?style=plastic&logo=Html5&logoColor=white" /></a>
-<a><img src="https://img.shields.io/badge/CSS3-1572b6?style=plastic&logo=Css3&logoColor=white"/></a>
-<a><img src="https://img.shields.io/badge/SASS-cc6699?style=plastic&logo=Sass&logoColor=white" /></a>
-<a><img src="https://img.shields.io/badge/JavaScript-f2df1e?style=plastic&logo=Javascript&logoColor=white" /></a>
-<a><img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" /></a>
-<a><img src="https://img.shields.io/badge/React-61dafb?style=plastic&logo=React&logoColor=white" /></a>
-<a><img src="https://img.shields.io/badge/ReactNative-61dafb?style=plastic&logo=React&logoColor=white" /></a>
-<a><img src="https://img.shields.io/badge/Next.js-000?style=plastic&logo=next.js&logoColor=white" /></a>
-<a><img src="https://img.shields.io/badge/Firebase-ffca2b?style=plastic&logo=firebase&logoColor=white" /></a>
-<a><img src="https://img.shields.io/badge/MobX-FF9955?style=plastic&logo=mobx&logoColor=white" /></a>
-<a><img src="https://img.shields.io/badge/jQuery-0769ad?style=plastic&logo=jquery&logoColor=white" /></a>
+<div>
+  <span>FRONTEND - </span>
+  <img src="https://img.shields.io/badge/HTML5-e34f26?style=plastic&logo=Html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572b6?style=plastic&logo=Css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SASS-cc6699?style=plastic&logo=Sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f2df1e?style=plastic&logo=Javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769ad?style=plastic&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61dafb?style=plastic&logo=React&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReactNative-61dafb?style=plastic&logo=React&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=plastic&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MobX-FF9955?style=plastic&logo=mobx&logoColor=white" />
+</div>
+
+<br/>
+
+<div>
+  <span>BACKEND - </span>
+  <img src="https://img.shields.io/badge/Firebase-ffca2b?style=plastic&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJs-E0234E?style=plastic&logo=NestJs&logoColor=white" />
+</div>
 
 <br/>
 
 ## 👩 Me
 
-<a target="_blank" href="https://jkim68888.github.io/"><img src="https://img.shields.io/badge/Blog-666666?style=plastic&logo=blogger&logoColor=white"/></a>
+<a target="_blank" href="https://jkim68888.github.io/"><img src="https://img.shields.io/badge/Blog-666666?style=plastic&logo=blogger&logoColor=white" /></a>
 
-<a href="mailto:jkim68888@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=plastic&logo=gmail&logoColor=white"/></a>
+<a href="mailto:jkim68888@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=plastic&logo=gmail&logoColor=white" /></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkim68888&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
