@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes. - 💞️ I’m l
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/ReactNative-61dafb?style=plastic&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000?style=plastic&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MobX-FF9955?style=plastic&logo=mobx&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/MobX-FF9955?style=plastic&logo=mobx&logoColor=white" /> -->
 </div>
 
 <br/>
@@ -33,8 +33,8 @@ You can click the Preview link to take a look at your changes. - 💞️ I’m l
 <div>
   <span>BACKEND - </span>
   <img src="https://img.shields.io/badge/Firebase-ffca2b?style=plastic&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJs-E0234E?style=plastic&logo=NestJs&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white" /> -->
+<!--   <img src="https://img.shields.io/badge/NestJs-E0234E?style=plastic&logo=NestJs&logoColor=white" /> -->
 </div>
 
 <br/>
