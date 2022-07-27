@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes. - 💞️ I’m l
 <!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Jihyun's%20Page&fontSize=55&fontColor=ffffff) -->
 
+<!-- 
 # Hi there👋, I am Jihyun Kim
 
 ## 🔨 Tech Stack
@@ -48,3 +49,5 @@ You can click the Preview link to take a look at your changes. - 💞️ I’m l
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkim68888&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <a><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjkim68888&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
+
+-->
