@@ -22,9 +22,9 @@ You can click the Preview link to take a look at your changes. - 💞️ I’m l
 
 </div> -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkim68888&show_icons=true&theme=radical)](https://github.com/jkim68888/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkim68888&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkim68888&langs_count=5&theme=radical&layout=compact)](https://github.com/jkim68888/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkim68888&langs_count=5&theme=radical&layout=compact)
 
 <span>
 <a target="_blank" href="https://jkim68888.github.io/"><img src="https://img.shields.io/badge/Blog-666666?style=plastic&logo=blogger&logoColor=white" /></a>
