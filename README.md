@@ -8,7 +8,7 @@ jkim68888/jkim68888 is a ✨ **special** ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes. - 💞️ I’m looking to collaborate on ...
 --->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=안녕하세요👋%20&fontAlignY=28&fontSize=30&fontColor=ffffff&desc=Hi there 👋&descSize=22&descAlignY=48&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there%20👋&fontAlignY=28&fontSize=30&fontColor=ffffff&descSize=22&descAlignY=48&descAlign=50)
 
 <!-- <div align="center">
 
