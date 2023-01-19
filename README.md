@@ -8,7 +8,7 @@ jkim68888/jkim68888 is a ✨ **special** ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes. - 💞️ I’m looking to collaborate on ...
 --->
 
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=안녕하세요👋%20&fontAlignY=28&fontSize=30&fontColor=ffffff&desc=ios개발자%20김지현입니다.&descSize=22&descAlignY=48&descAlign=50) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=안녕하세요👋%20&fontAlignY=28&fontSize=30&fontColor=ffffff&desc=Hi there 👋&descSize=22&descAlignY=48&descAlign=50)
 
 <!-- <div align="center">
 
@@ -22,9 +22,10 @@ You can click the Preview link to take a look at your changes. - 💞️ I’m l
 
 </div> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkim68888&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkim68888&show_icons=true&theme=radical) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkim68888&langs_count=5&theme=radical&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkim68888&langs_count=5&theme=radical&layout=compact) -->
+
 
 <span>
 <a target="_blank" href="https://jkim68888.tistory.com/"><img src="https://img.shields.io/badge/Blog-666666?style=plastic&logo=blogger&logoColor=white" /></a>
