@@ -8,7 +8,7 @@ jkim68888/jkim68888 is a ✨ **special** ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes. - 💞️ I’m looking to collaborate on ...
 --->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there%20👋&fontAlignY=28&fontSize=30&fontColor=ffffff&descSize=22&descAlignY=48&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there%20👋&fontAlignY=28&fontSize=30&fontColor=ffffff&desc=I'm%20Jihyun&descSize=22&descAlignY=48&descAlign=49)
 
 <!-- <div align="center">
 
@@ -22,9 +22,9 @@ You can click the Preview link to take a look at your changes. - 💞️ I’m l
 
 </div> -->
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkim68888&show_icons=true&theme=radical) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkim68888&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkim68888&langs_count=5&theme=radical&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkim68888&theme=radical&layout=compact&hide=html&langs_count=4&count_private=true)
 
 
 <span>
