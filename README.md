@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes. - 💞️ I’m l
 <a target="_blank" href="https://jkim68888.tistory.com/"><img src="https://img.shields.io/badge/Blog-00CCBB?style=plastic&logo=blogger&logoColor=white" /></a>
 </span>
 <span>
-<a target="_blank" href="https://ios-resume-jik.notion.site/ios-resume-jik/IOS-Developer-083cef77357747378171705df51aec0f"><img src="https://img.shields.io/badge/Resume-FC60A8?style=plastic&logo=notion&logoColor=white" /></a>
+<a target="_blank" href=""><img src="https://img.shields.io/badge/Resume-FC60A8?style=plastic&logo=notion&logoColor=white" /></a>
 </span>
 <span>
 <a href="mailto:jkim68888@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=plastic&logo=gmail&logoColor=white" /></a>
