@@ -6,7 +6,6 @@
 <!---****
 jkim68888/jkim68888 is a ✨ **special** ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. - 💞️ I’m looking to collaborate on ...
---->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hi%20there,%20I'm%20Jihyun%20👋&fontAlignY=31&fontSize=30&fontColor=ffffff&descSize=22&descAlignY=48&descAlign=49)
 
@@ -22,9 +21,13 @@ You can click the Preview link to take a look at your changes. - 💞️ I’m l
 
 </div> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkim68888&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+#  Kim Ji Hyun 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkim68888&theme=radical&layout=compact&hide=html&langs_count=4&count_private=true)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jkim68888)](https://solved.ac/jkim68888/) -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkim68888&show_icons=true&theme=radical&count_private=true&include_all_commits=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkim68888&theme=radical&layout=compact&hide=html&langs_count=4&count_private=true&theme=transparent)
 
 
 <span>
