@@ -26,7 +26,9 @@ You can click the Preview link to take a look at your changes. - 💞️ I’m l
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jkim68888)](https://solved.ac/jkim68888/) -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkim68888&show_icons=true&theme=radical&count_private=true&include_all_commits=true&theme=transparent)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkim68888&theme=radical&layout=compact&hide=html&langs_count=4&count_private=true&theme=transparent)
+
 
 <span>
 <a target="_blank" href="https://jkim68888.tistory.com/"><img src="https://img.shields.io/badge/Blog-00CCBB?style=plastic&logo=blogger&logoColor=white" /></a>
