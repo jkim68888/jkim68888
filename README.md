@@ -40,5 +40,5 @@ You can click the Preview link to take a look at your changes. - 💞️ I’m l
 <a href="mailto:jkim68888@gmail.com"><img src="https://img.shields.io/badge/Gmail-ea4335?style=plastic&logo=gmail&logoColor=white" /></a>
 </span>
 <span>
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjkim68888&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+<img src="https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fjkim68888?color=blue&label=hits&size=small" alt="hits" />
 </span>
